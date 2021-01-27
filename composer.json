@@ -1,0 +1,7 @@
+{
+    "name": "ebremner17/mj_blocks",
+    "description": "Blocks for Montgomery James sites.",
+    "type": "drupal-custom-module",
+    "homepage": "https://github.com/ebremner17/mj_blocks",
+    "keywords": ["Drupal"]
+}
