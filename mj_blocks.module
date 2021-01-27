@@ -1,0 +1,19 @@
+<?php
+
+/**
+* @file
+* UW Custom Blocks module.
+*/
+
+/**
+* Implements hook_theme().
+*/
+function mj_blocks_theme($existing, $type, $theme, $path) {
+  return [
+    'mj_block_copy_text' => [
+      'variables' => [
+        'ct' => NULL,
+      ],
+    ],
+  ];
+}
